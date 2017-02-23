@@ -10,6 +10,6 @@ main()
 	while(cin>>n>>p)
 	{
 		k=pow(p,1.0/n);
-		cout<<k;
+		cout<<k<<endl;
 	}
 }
